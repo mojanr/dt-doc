@@ -14,3 +14,9 @@ Each service must expose `/metrics` endpoint.
 
 ## 3. Alerting
 Alerts configured in Prometheus rules:
+
+## 4. Dashboards
+Each service must define a Grafana dashboard JSON under `/observability/dashboards/`.
+
+## 5. Tracing
+Use OpenTelemetry SDK → Jaeger or Tempo backend.
