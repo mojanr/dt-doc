@@ -12,7 +12,7 @@ It acts as the **main reference** for engineers, DevOps, and architects to ensur
 
 ---
 ## Architecture
-![Architecture](./docs/source/architecture.png)
+![Architecture](./docs/source/Architecture.png)
 ---
 
 ## 1. Vision and Goals
