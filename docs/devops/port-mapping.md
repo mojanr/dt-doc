@@ -2,13 +2,13 @@
 
 | Service | Port | Description |
 |---------|------|--------|
-| dt-database-mariadb | 1011 | Port 1011 until 1019 are used for database |
-| dt-database-postgre | 1012 |
-| dt-database-mongo | 1013 |
-| dt-cache-redis | 1021 | Port 1021 until 2019 are used for caching |
-| dt-cid-komodo | 1031 | Port 1031 until 1039 are used for CI/CD |
-| dt-auth-keycloak | 1041 | Port 1041 until 2019 are used for auth keycloak |
-| dt-auth-casdoor | 1051 | Port 1051 until 2029 are used for auth casdoor
+| dt-database-mariadb | 1011 |
+| dt-database-postgre | 1021 |
+| dt-database-mongo | 1031 |
+| dt-cache-redis | 1041 | Port 1021 until 2019 are used for caching |
+| dt-cid-komodo | 1051 | Port 1031 until 1039 are used for CI/CD |
+| dt-auth-keycloak | 1061 | Port 1041 until 2019 are used for auth keycloak |
+| dt-auth-casdoor | 1071 | Port 1051 until 2029 are used for auth casdoor
 | dt-app | 3000 | Port 3000 and above are used for frontend application |
 | dt-monitoring-grafana | 4001 | Port 4001 and above are used for monitoring and logging |
 | dt-gateway-api-tyk | 5011 | Port 5011 until 5019 are used for gateway api | 
